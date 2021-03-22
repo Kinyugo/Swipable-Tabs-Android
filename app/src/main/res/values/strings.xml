@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">StudentRegistration</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register_label">Register</string>
+    <string name="fees_label">Fees</string>
+    <string name="units_label">Register Units</string>
+    <string name="student_name_hint">Student Name</string>
+    <string name="registration_number_hint">Registration Number</string>
+    <string name="course_of_study_hint">Course of Study</string>
+    <string name="fees_paid_hint">Fees Paid</string>
+    <string name="year_of_study">Year of Study</string>
+    <string name="send_label">Send</string>
+    
+    <string name="dialog_pay_fees">Remember to pay the full 50,000 fee amount!</string>
+    <string name="proceed_pay_fees">Proceed Pay</string>
+    <string name="cancel_pay_fees">Amend Fees</string>
+
+    <!-- Start List of units -->
+    <string name="artificial_intelligence">Artificial Intelligence</string>
+    <string name="compiler_construction">Compiler Construction</string>
+    <string name="theory_of_computing">Theory of Computing</string>
+    <string name="computer_security">Computer Security</string>
+    <string name="mobile_programming">Mobile Programming</string>
+    <string name="discrete_maths">Discrete Mathematics</string>
+    <string name="data_structures">Data Structures and Algorithms</string>
+    <string name="available_units">Available Units</string>
+    <!-- End List of Units -->
+</resources>
